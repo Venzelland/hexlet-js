@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+ "type":"module",
+ "version": "1.0.0",
+  "description": "��\u001c\u0004>\u00049\u0004 \u0000?\u00045\u0004@\u00042\u0004K\u00049\u0004 \u0000?\u0004@\u0004>\u00045\u0004:\u0004B\u0004 \u0000=\u00040\u0004 \u0000%\u00045\u0004:\u0004A\u0004;\u00045\u0004B\u00045\u0004\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venzelland/hexlet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Venzelland/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Venzelland/hexlet-js#readme"
+}
